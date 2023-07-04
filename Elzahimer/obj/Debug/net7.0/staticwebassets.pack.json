@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Eman Hamza\\Desktop\\Elzahimer\\Elzahimer\\wwwroot\\microsoft-signalr\\signalr.js",
+      "PackagePath": "staticwebassets\\microsoft-signalr\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\Eman Hamza\\Desktop\\Elzahimer\\Elzahimer\\wwwroot\\microsoft-signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\microsoft-signalr\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Elzahimer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Elzahimer.props",
+      "PackagePath": "build\\Elzahimer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Elzahimer.props",
+      "PackagePath": "buildMultiTargeting\\Elzahimer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Elzahimer.props",
+      "PackagePath": "buildTransitive\\Elzahimer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

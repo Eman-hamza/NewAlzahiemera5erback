@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "xusvUXK2diYlMRhwPSxHkCs2RtCCad9IaunZUtUgjqo=",
+  "Source": "Elzahimer",
+  "BasePath": "_content/Elzahimer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Elzahimer\\wwwroot",
+      "Source": "Elzahimer",
+      "ContentRoot": "C:\\Users\\Eman Hamza\\Desktop\\Elzahimer\\Elzahimer\\wwwroot\\",
+      "BasePath": "_content/Elzahimer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Eman Hamza\\Desktop\\Elzahimer\\Elzahimer\\wwwroot\\microsoft-signalr\\signalr.js",
+      "SourceId": "Elzahimer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eman Hamza\\Desktop\\Elzahimer\\Elzahimer\\wwwroot\\",
+      "BasePath": "_content/Elzahimer",
+      "RelativePath": "microsoft-signalr/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\microsoft-signalr\\signalr.js"
+    },
+    {
+      "Identity": "C:\\Users\\Eman Hamza\\Desktop\\Elzahimer\\Elzahimer\\wwwroot\\microsoft-signalr\\signalr.min.js",
+      "SourceId": "Elzahimer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eman Hamza\\Desktop\\Elzahimer\\Elzahimer\\wwwroot\\",
+      "BasePath": "_content/Elzahimer",
+      "RelativePath": "microsoft-signalr/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\microsoft-signalr\\signalr.min.js"
+    }
+  ]
+}

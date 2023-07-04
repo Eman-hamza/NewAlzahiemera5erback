@@ -1,0 +1,48 @@
+D:\Elzahimer\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.deps.json
+D:\Elzahimer\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.dll
+D:\Elzahimer\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.pdb
+D:\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.csproj.AssemblyReference.cache
+D:\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.AssemblyInfoInputs.cache
+D:\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.AssemblyInfo.cs
+D:\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.csproj.CoreCompileInputs.cache
+D:\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.dll
+D:\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\refint\Model.core.dll
+D:\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.pdb
+D:\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\ref\Model.core.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.deps.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.pdb
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.csproj.AssemblyReference.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.AssemblyInfoInputs.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.AssemblyInfo.cs
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.csproj.CoreCompileInputs.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\refint\Model.core.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.pdb
+D:\Elzahimer2\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\ref\Model.core.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.deps.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.pdb
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.csproj.AssemblyReference.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.AssemblyInfoInputs.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.AssemblyInfo.cs
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.csproj.CoreCompileInputs.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\obj\Debug\net7.0\refint\Model.core.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.pdb
+C:\Users\Eman Hamza\Desktop\Elzahimer\Model.core\obj\Debug\net7.0\ref\Model.core.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.deps.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\bin\Debug\net7.0\Model.core.pdb
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.csproj.AssemblyReference.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.AssemblyInfoInputs.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.AssemblyInfo.cs
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.csproj.CoreCompileInputs.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\refint\Model.core.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\Model.core.pdb
+D:\ElZahimer3\Elzahimer\Elzahimer\Model.core\obj\Debug\net7.0\ref\Model.core.dll

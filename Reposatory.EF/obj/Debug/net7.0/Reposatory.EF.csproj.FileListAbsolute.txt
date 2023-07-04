@@ -1,0 +1,68 @@
+D:\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.deps.json
+D:\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.runtimeconfig.json
+D:\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.dll
+D:\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.pdb
+D:\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Model.core.dll
+D:\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Model.core.pdb
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.AssemblyReference.cache
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.AssemblyInfoInputs.cache
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.AssemblyInfo.cs
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.CoreCompileInputs.cache
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.CopyComplete
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.dll
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\refint\Reposatory.EF.dll
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.pdb
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.genruntimeconfig.cache
+D:\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\ref\Reposatory.EF.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.deps.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.runtimeconfig.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.pdb
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Model.core.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Model.core.pdb
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.AssemblyReference.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.AssemblyInfoInputs.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.AssemblyInfo.cs
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.CoreCompileInputs.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.CopyComplete
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\refint\Reposatory.EF.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.pdb
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.genruntimeconfig.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\ref\Reposatory.EF.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.deps.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.runtimeconfig.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.pdb
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Model.core.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Model.core.pdb
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.AssemblyReference.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.AssemblyInfoInputs.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.AssemblyInfo.cs
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.CoreCompileInputs.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.CopyComplete
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\refint\Reposatory.EF.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.pdb
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.genruntimeconfig.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Reposatory.EF\obj\Debug\net7.0\ref\Reposatory.EF.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.deps.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.runtimeconfig.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Reposatory.EF.pdb
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Model.core.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\bin\Debug\net7.0\Model.core.pdb
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.AssemblyReference.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.AssemblyInfoInputs.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.AssemblyInfo.cs
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.CoreCompileInputs.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.csproj.CopyComplete
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\refint\Reposatory.EF.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.pdb
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\Reposatory.EF.genruntimeconfig.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Reposatory.EF\obj\Debug\net7.0\ref\Reposatory.EF.dll

@@ -1,0 +1,351 @@
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\appsettings.Development.json
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\appsettings.json
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.exe
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.deps.json
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.runtimeconfig.json
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.pdb
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Azure.Core.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Azure.Identity.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Humanizer.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.CodeDom.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Model.core.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Reposatory.EF.dll
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Reposatory.EF.pdb
+D:\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Model.core.pdb
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.AssemblyReference.cache
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.AssemblyInfoInputs.cache
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.AssemblyInfo.cs
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.CoreCompileInputs.cache
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.MvcApplicationPartsAssemblyInfo.cs
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.MvcApplicationPartsAssemblyInfo.cache
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.Elzahimer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.build.Elzahimer.props
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Elzahimer.props
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Elzahimer.props
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.build.json
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.development.json
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\scopedcss\bundle\Elzahimer.styles.css
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.CopyComplete
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.dll
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\refint\Elzahimer.dll
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.pdb
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.genruntimeconfig.cache
+D:\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\ref\Elzahimer.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\appsettings.Development.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\appsettings.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.exe
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.deps.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.runtimeconfig.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.pdb
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Azure.Core.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Azure.Identity.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Humanizer.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.CodeDom.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Model.core.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Reposatory.EF.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Reposatory.EF.pdb
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Model.core.pdb
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.AssemblyReference.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.AssemblyInfoInputs.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.AssemblyInfo.cs
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.CoreCompileInputs.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.MvcApplicationPartsAssemblyInfo.cs
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.MvcApplicationPartsAssemblyInfo.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.Elzahimer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.build.Elzahimer.props
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Elzahimer.props
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Elzahimer.props
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.build.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.development.json
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\scopedcss\bundle\Elzahimer.styles.css
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.CopyComplete
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\refint\Elzahimer.dll
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.pdb
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.genruntimeconfig.cache
+D:\Elzahimer2\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\ref\Elzahimer.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\appsettings.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.exe
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.deps.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.runtimeconfig.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.pdb
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Model.core.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Reposatory.EF.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Reposatory.EF.pdb
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Model.core.pdb
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.AssemblyReference.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.AssemblyInfoInputs.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.AssemblyInfo.cs
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.CoreCompileInputs.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.Elzahimer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.build.Elzahimer.props
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Elzahimer.props
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Elzahimer.props
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\scopedcss\bundle\Elzahimer.styles.css
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.CopyComplete
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\refint\Elzahimer.dll
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.pdb
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.genruntimeconfig.cache
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\obj\Debug\net7.0\ref\Elzahimer.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\appsettings.Development.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\appsettings.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.exe
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.deps.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.runtimeconfig.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.pdb
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Azure.Core.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Azure.Identity.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Humanizer.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.CodeDom.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Model.core.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Reposatory.EF.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Reposatory.EF.pdb
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Model.core.pdb
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.AssemblyReference.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.AssemblyInfoInputs.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.AssemblyInfo.cs
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.CoreCompileInputs.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.MvcApplicationPartsAssemblyInfo.cs
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.MvcApplicationPartsAssemblyInfo.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.Elzahimer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.build.Elzahimer.props
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Elzahimer.props
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Elzahimer.props
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.build.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\staticwebassets.development.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\scopedcss\bundle\Elzahimer.styles.css
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.csproj.CopyComplete
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\refint\Elzahimer.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.pdb
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\Elzahimer.genruntimeconfig.cache
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\obj\Debug\net7.0\ref\Elzahimer.dll
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\libman.json
+D:\ElZahimer3\Elzahimer\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.staticwebassets.runtime.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\libman.json
+C:\Users\Eman Hamza\Desktop\Elzahimer\Elzahimer\bin\Debug\net7.0\Elzahimer.staticwebassets.runtime.json
